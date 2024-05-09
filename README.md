@@ -10,5 +10,8 @@ To use these configuration files:
 
 4. Restart the XFCE desktop environment, logging out and logging back in would be enough.
 
+⚠️ **Warning**: Backup your files before replacing them!
+
+
 
 ![Image Alt Text](https://github.com/ahmadzaid1/xfce4-dotfiles/blob/main/Screenshot.png)

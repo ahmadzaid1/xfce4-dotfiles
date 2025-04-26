@@ -17,3 +17,9 @@ My personal XFCE setup for Debian 12.
 - **XFWM**: Gruvbox-Dark-GTK
 - **Icons**: Tela Black Dark
 - **Font**: Benguiat Book Bold
+
+ ### Screenshot
+![Screenshot](screenshot.png)
+
+### Panel items in order
+![panel](panelItems.png)

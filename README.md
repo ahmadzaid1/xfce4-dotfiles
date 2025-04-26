@@ -20,6 +20,7 @@ My personal XFCE setup for Debian 12.
 
  ### Screenshot
 ![Screenshot](screenshot.png)
-
+### Xfce Panel 
+![panel](panel.png)
 ### Panel items in order
-![panel](panelItems.png)
+![panelItems](panelItems.png)
